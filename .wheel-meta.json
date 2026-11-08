@@ -1,0 +1,22 @@
+{
+  "wheel_id": 808,
+  "structure": "umbrella",
+  "slug": "retainingwallquote-120",
+  "project": "retaining-wall-costs-checklist-c8034ac26471a9bba324f0457c09a679",
+  "parent_t1_ref": "retainingwallquote-159",
+  "node_role": "feeder",
+  "money_target": "retainingwallquote.com.au",
+  "primary_kw": "retaining wall costs checklist",
+  "intended_url": "https://sitesau.github.io/retainingwallquote-120/",
+  "tier": "T2",
+  "writeback_nonce": "2fd915ceb5baf67b",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-costs-d6ff0b839db8b43c3538c5ef0b30a1e29eee448e/",
+      "anchor": "the retaining wall costs overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
